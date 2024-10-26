@@ -1,0 +1,14 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background:#747474">
+<defs>
+  <style>
+    .cls-9{stroke:#7C0800;stroke-width:1px;}
+   
+  </style>
+</defs>
+<g class="layer">
+  <line class="cls-9" x1="3" x2="5" y1="3.5" y2="3.5"/>
+  <line class="cls-9" x1="11" x2="13" y1="3.5" y2="3.5"/>
+  <line class="cls-9" x1="3" x2="5" y1="11.5" y2="11.5"/>
+  <line class="cls-9" x1="11" x2="13" y1="11.5" y2="11.5"/>
+</g>
+</svg>

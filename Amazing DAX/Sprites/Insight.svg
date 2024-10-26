@@ -1,0 +1,17 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background:rgb(255,255,255)">
+<defs>
+  <style>
+    .cls-1{stroke:#005000;stroke-width:1px;fill:#005000}
+    .cls-2{stroke:#00A800;stroke-width:1px;fill:#00A800}
+    .cls-3{stroke:#00A800;stroke-width:1px;fill:#00A800}
+	.cls-4{stroke:red;stroke-width}
+	.cls-12{ font: bold 30px sans-serif;}
+    
+  </style>
+</defs>
+<g class="layer">
+  <rect class="cls-11" x="0" y="0" width="16" height="16"/>
+<text class="cls1-2" x="1" y="7" fill="#7C0800" font-size="4" transform="rotate(45 6 7)" >INSIGHT</text>
+</g>
+
+</svg>

@@ -1,0 +1,27 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background:rgb(0,0,0)">
+<defs>
+  <style>
+    .cls-1{stroke:#005000;stroke-width:1px;fill:#005000}
+    .cls-2{stroke:#00A800;stroke-width:1px;fill:#00A800}
+    .cls-3{stroke:#00A800;stroke-width:1px;fill:#00A800}
+	.cls-4{stroke:red;stroke-width}
+    
+  </style>
+</defs>
+<g class="layer">
+  <rect class="cls-10" x="0" y="0" width="16" height="16"/>
+  <line class="cls-2" x1="2.5" x2="2.5" y1="0" y2="10"/>
+  <rect class="cls-1" x="4.5" y=".5" width="6" height="7"/>  
+  <rect class="cls-2" x="5.5" y="1.5" width="5" height="2"/>
+  <rect class="cls-2" x="4.5" y="5.5" width="3" height="2"/>
+  <rect class="cls-2" x="9.5" y="5.5" width="1" height="2"/>
+  <line class="cls-1" x1="4" x2="8" y1="9.5" y2="9.5"/>  
+  <line class="cls-1" x1="9" x2="11" y1="9.5" y2="9.5"/>    
+  <line class="cls-1" x1="3" x2="4" y1="11.5" y2="11.5"/>    
+  <line class="cls-1" x1="5" x2="12" y1="11.5" y2="11.5"/>  
+  <line class="cls-1" x1="2" x2="8" y1="13.5" y2="13.5"/>   
+  <line class="cls-1" x1="9" x2="13" y1="13.5" y2="13.5"/>     
+ 
+  </g>
+
+</svg>
